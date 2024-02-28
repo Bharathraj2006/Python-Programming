@@ -36,7 +36,8 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT](./images/FILENAME2.png)
+![output](https://github.com/Bharathraj2006/Python-Programming/assets/152376845/58ee346c-d1cc-4b7e-bc1e-bf1930e0f291)
+
 
 
 ## Result:
